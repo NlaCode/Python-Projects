@@ -1,2 +1,3 @@
 # Python-Projects
-### Mini projects in Python while studying learning the language!
+### 1. Calculator
+### 2. Hangman Game
